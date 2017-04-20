@@ -1,4 +1,7 @@
-# test coverage for  [babylon (v6.16.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babylon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babylon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babylon.svg)](https://travis-ci.org/npmtest/node-npmtest-babylon)
+# npmtest-babylon
+
+#### basic test coverage for  [babylon (v6.16.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babylon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babylon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babylon.svg)](https://travis-ci.org/npmtest/node-npmtest-babylon)
+
 #### A JavaScript parser
 
 [![NPM](https://nodei.co/npm/babylon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babylon)
